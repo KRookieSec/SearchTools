@@ -1,0 +1,7 @@
+http:
+  proxy: false #设置代理，默认为flase，开启格式 http://127.0.0.1:7890或socks5://127.0.0.1
+fofa:
+  email: 
+  api_key: 
+  size: 10000 #每页爬取数据，高级会员最大为10000
+  
